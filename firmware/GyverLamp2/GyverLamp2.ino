@@ -17,9 +17,7 @@
   TODO:
   Upload -> Применить
   Длина огня в светомуз?
-  Плавная смена режимов
-  Mqtt
-  Базовый пак
+  Плавная смена Базовый пак
   Поддержка куба
   Погода https://it4it.club/topic/40-esp8266-i-parsing-pogodyi-s-openweathermap/
 */

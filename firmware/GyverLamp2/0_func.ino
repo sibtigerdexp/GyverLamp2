@@ -1,4 +1,4 @@
-void sendUDP(char *data) {
+  void sendUDP(char *data) {
   Udp.beginPacket(broadIP, portNum + cfg.group);
   Udp.write(data);
   Udp.endPacket();
